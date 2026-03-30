@@ -26,7 +26,5 @@ A modern **3D portfolio website** built with **React, Three.js, and Tailwind CSS
 
 ## 📸 Demo
 
-👉 [Live Demo](https://Ashu-portfolio.vercel.app/)  
-_(Replace with your deployed site link)_
+👉 [Live Demo](https://ashu-3-d-portfolio.vercel.app/)  
 
----
