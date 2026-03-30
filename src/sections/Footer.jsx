@@ -28,7 +28,7 @@ const Footer = () => {
         </a>
         <p></p>
         <a
-          href="https://www.instagram.com/ashu.xpvtt/"
+          href="https://www.instagram.com/ashu.devworks/"
           target="_blank"
           className="font-bold text-2xl"
         >
